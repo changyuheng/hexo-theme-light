@@ -4,7 +4,6 @@ menu:
 
 widgets:
 - search
-- category
 - tag
 
 excerpt_link: Read More
@@ -27,7 +26,7 @@ fancybox: true
 google_analytics:
 rss:
 
-comment_provider: facebook
+comment_provider: disqus
 # Facebook comment
 facebook:
   appid: 123456789012345
